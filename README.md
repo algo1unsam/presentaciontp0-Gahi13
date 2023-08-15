@@ -7,13 +7,11 @@
 - Compartan el link por discord
 - Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
 
-Ya saben usar git!
-
 
 ## Estudiante: Gabriela Sosa
 
 Descripción: 
-Soy una humana que le gusta la tecnolgía, cocinar, los gatos y el color rosa. Tengo 22 años, mi cumple es el 13 de octubre. Mi comida favorita es el pastel de papa de mi mamá y mi postre favorito son las frutillas con crema. Me gusta programar y por eso además de estudiar en la facultad, estoy en cursos del mismo tema.
+Soy una humana que le gusta la tecnolgía, cocinar, los gatos, jugar jueguitos y el color rosa. Tengo 22 años, mi cumple es el 13 de octubre. Mi comida favorita es el pastel de papa de mi mamá y mi postre favorito son las frutillas con crema. Me gusta programar y por eso además de estudiar en la facultad, estoy en cursos del mismo tema.
 
 Foto de mi persona:
 
