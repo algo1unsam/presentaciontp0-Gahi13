@@ -1,14 +1,4 @@
-# Presentación
-
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-
-## Estudiante: Gabriela Sosa
+Estudiante: Gabriela Sosa
 
 Descripción: 
 Soy una humana que le gusta la tecnolgía, cocinar, los gatos, jugar jueguitos y el color rosa. Tengo 22 años, mi cumple es el 13 de octubre. Mi comida favorita es el pastel de papa de mi mamá y mi postre favorito son las frutillas con crema. Me gusta programar y por eso además de estudiar en la facultad, estoy en cursos del mismo tema.
@@ -19,7 +9,4 @@ Foto de mi persona:
 
 
 
-------
-
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
