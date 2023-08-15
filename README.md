@@ -10,15 +10,16 @@
 Ya saben usar git!
 
 
-## Estudiante: Nombre estudiante
+## Estudiante: Gabriela Sosa
 
-Descripción
+Descripción: 
+Soy una humana que le gusta la tecnolgía, cocinar, los gatos y el color rosa. Tengo 22 años, mi cumple es el 13 de octubre. Mi comida favorita es el pastel de papa de mi mamá y mi postre favorito son las frutillas con crema. Me gusta programar y por eso además de estudiar en la facultad, estoy en cursos del mismo tema.
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![d](https://blogger.googleusercontent.com/img/a/AVvXsEjRl3wB9LeXV3an7wovJcV1_ACjEw4aFLRGvPd6lfmVijK8tW3-ZswrguIBdGSDCCo0z0bInvj8mOb9CPxRk9sO21YEaBAKCtCRwfa_MZK_FleAm0Q7bBc8N2aqH6kMXyLVE02RXjv9fNkGW4I1hr1_55vLRbwoZug5Eo_YK9tkvOqIq-8jgF9TOf84ZA=w1200-h630-p-k-no-nu)
 
-Diente de Leon
+
 
 ------
 
